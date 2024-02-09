@@ -149,7 +149,7 @@ ul li{
 	border-bottom: 1px solid black;
 }
 ul{
-	width: 100%;
+	width: 80%;
 	display: flex;
 	justify-content: space-between;
 	margin-left: 70px;
